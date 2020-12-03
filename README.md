@@ -6,3 +6,5 @@ one dimension with unit steps without crossing specific barriers. Also, made a p
 with unit steps on Python and program that has verified obtained results and
 theorems.
 
+You can find all materials in Ukrainian language and brief results in English. I am currently working on full translation in English.
+
